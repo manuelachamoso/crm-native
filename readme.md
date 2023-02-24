@@ -6,8 +6,6 @@ The application is designed to allow users to create new customers, view a list 
 
 The application makes use of Redux to manage the state of the application, and Redux-Saga is used to manage the application's side effects, such as network requests. The application has been designed with modularity and scalability in mind, making it easy to add new features and maintain the existing ones.
   
-![CRM Gif](https://github.com/manuelachamoso/crm-native/blob/main/example.gif)
-
 * Clone the repository to your local machine.
 * Navigate to the project directory.
 * Run ``` yarn install ``` or ```npm install``` to install all the required dependencies.
